@@ -1,0 +1,2 @@
+1. num1 and num2 are both being stored as strings, so result is also being initialized as a string containing the concatenation of the two variables
+2. convert num1 and num2 to numbers when calculating result
